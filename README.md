@@ -5,17 +5,6 @@
 
 I'm a fullstack developer who started in frontend — which means I build complete applications (frontend, backend, mobile, deployment) without ever compromising on the user experience. From design to production, I can deliver your entire product end to end.
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Demo |
-|---------|-------------|-------|------|
-| **[easyRantel](https://github.com/Joab77/easyRantel)** | Apartment rental & purchase platform — search, listings, booking flow | Vue.js, REST API | [Live demo](#) |
-| **[eTontine Mobile](https://github.com/Joab77/eTontine_mobile)** | Digital tontine (rotating savings) app for West African markets | Mobile | [Screenshots](#) |
-| **[MSO](https://github.com/Joab77/mso)** | Business website — responsive design & performance-focused | Vue.js, CSS | [Live demo](#) |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -39,6 +28,6 @@ I'm a fullstack developer who started in frontend — which means I build comple
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ezekiel-bambelou-3a3a191bb/
 - 📧 Email: ezekielbambelou@gmail.com
-- 🌐 Portfolio: https://bej-wine.vercel.app/
+- 🌐 Portfolio: [https://bej-wine.vercel.app/](https://me.bezej.com/)
 
 *Open to freelance projects and remote positions.*
