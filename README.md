@@ -28,6 +28,6 @@ I'm a fullstack developer who started in frontend — which means I build comple
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ezekiel-bambelou-3a3a191bb/
 - 📧 Email: ezekielbambelou@gmail.com
-- 🌐 Portfolio: [https://bej-wine.vercel.app/](https://me.bezej.com/)
+- 🌐 Portfolio: [https://me.bezej.com/](https://me.bezej.com/)
 
 *Open to freelance projects and remote positions.*
