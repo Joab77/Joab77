@@ -1,6 +1,6 @@
 # Hi, I'm Ezechiel Joab BAMBELOU 👋
 
-**Ingénieur Logiciel Full-stack** — Vue.js · Node.js · Mobile | Strong frontend foundation
+**Software Ingenier Full-stack** — Saas App · Mobile App | Strong frontend foundation
 📍 Cotonou, Benin · 🌍 Available for freelance & remote contracts
 
 I'm a fullstack developer who started in frontend — which means I build complete applications (frontend, backend, mobile, deployment) without ever compromising on the user experience. From design to production, I can deliver your entire product end to end.
